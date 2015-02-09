@@ -23,10 +23,11 @@ Assume that $AOSP is your aosp folder, follow the following commands you will ha
 ```bash
 	# backup your original qemu folder
 	cd $AOSP
-	git clone https://github.com/huz123/GemDroid_QEMU .
+	git clone https://github.com/huz123/GemDroid_QEMU
 	cd $AOSP/sdk/emulator
 	git checkout -b gemdroid cbf40c
 	cd $AOSP/external
+	mv qemu qemu.bk
 	cp -r $AOSP/GemDroid_QEMU/gemdroid_qemu qemu
 	cd qemu
 	./android-configure.sh
