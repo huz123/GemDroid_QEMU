@@ -2,17 +2,17 @@ GemDroid QEMU Part
 ====================
 Description
 ----------
-Welcome to GemDroid, An Infrastructure to Evaluate Mobile Platforms. GemDroid uses traces to feed its simluator. This patch generates traces of an application from the android emulator. The trace contains CPU/Memory access, frame buffer activity and raw instructions.
+Welcome to GemDroid, An Infrastructure to Evaluate Mobile Platforms. GemDroid uses traces to feed its simulator. This patch generates traces of an application from the android emulator. The trace contains CPU/Memory access, frame buffer activity and raw instructions.
 
 System Requirement
 -------------------
 AOSP 4.4.4 from https://source.android.com/source/downloading.html
 
 
-In this tar ball
+In this Repository
 -----------------------------
-1. gemdroid_qemu 	__GemDroid QEMU part__
-2. ReadMe.md 	 	__This readme__
+1. gemdroid_qemu : 	__GemDroid QEMU part__
+2. ReadMe.md 	 :	__This readme__
 
 <!-- 3. FrameBuffer.cpp For DVI users -->
 
