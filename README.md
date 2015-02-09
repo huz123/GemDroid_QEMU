@@ -54,4 +54,4 @@ A: It is a bug in the emulator. A quick fix is to replace $AOSP/sdk/emulator/ope
  -->
 Contacts
 ------
-If you have and comments, please send to [haibo](http://huz123.github.io/) at cse.psu.edu or [nachi](http://www.cse.psu.edu/~nzc5047/) at cse.psu.edu.
+If you have any questions and comments, please send to [haibo](http://huz123.github.io/) at cse.psu.edu or [nachi](http://www.cse.psu.edu/~nzc5047/) at cse.psu.edu.
