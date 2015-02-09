@@ -6,7 +6,7 @@ Welcome to GemDroid, An Infrastructure to Evaluate Mobile Platforms. GemDroid us
 
 System Requirement
 -------------------
-AOSP 4.4.4 from https://source.android.com/source/downloading.html
+AOSP [android-4.4.4_r2](https://source.android.com/source/downloading.html)
 
 
 In this Repository
