@@ -42,7 +42,7 @@ To use
 ------
 0. Need an android virtual device [follow this link](https://developer.android.com/tools/devices/index.html);
 1. start the emulator with your android virtual device as usual;
-2. press "volume up" button will trace the Frame Buffer Activity # Note that this is not supported for DIV monitors;
+2. press "volume up" button will trace the Frame Buffer and Camera activities;
 3. press "volume down" button will trace the CPU/Memory accesses;
 4. press "call" button will trace raw instructions.
 
