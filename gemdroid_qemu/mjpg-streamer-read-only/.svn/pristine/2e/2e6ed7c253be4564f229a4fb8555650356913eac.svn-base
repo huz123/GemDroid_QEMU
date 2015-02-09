@@ -1,0 +1,26 @@
+Source: mjpg-streamer
+Section: application
+Priority: extra
+Maintainer: Alex <1988pb@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Homepage: <http://sourceforge.net/projects/mjpg-streamer/>
+
+Package: libmjpg-streamer
+Section:libs
+Architecture: any
+Depends:${shlibs:Depends}, ${misc:Depends}
+Description:"MJPG-streamer", is a command line application that copied JPG-frame from a single input plugin to multiple output plugins.
+
+Package: libmjpg-streamer-dev
+Section: libdevel
+Architecture: any
+Depends: libmjpg-streamer (= ${binary:Version})
+Description: "MJPG-streamer", is a command line application that copied JPG-frame from a single input plugin to multiple output plugins.
+
+Package: mjpg-streamer
+Section: application
+Architecture: any
+Depends: libmjpg-streamer ${shlibs:Depends}, ${misc:Depends}
+Description: "MJPG-streamer", is a command line application that copied JPG-frame from a single input plugin to multiple output plugins.
+

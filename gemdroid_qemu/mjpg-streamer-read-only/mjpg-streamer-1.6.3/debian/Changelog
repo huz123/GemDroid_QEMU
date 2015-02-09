@@ -1,0 +1,5 @@
+mjpg-streamer (1.6.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alex <1988pb@gmail.com>  Fri, 25 Feb 2011 16:52:58 +0800

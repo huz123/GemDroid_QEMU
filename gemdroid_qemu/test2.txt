@@ -1,0 +1,1 @@
+bash: ./emulator: No such file or directory

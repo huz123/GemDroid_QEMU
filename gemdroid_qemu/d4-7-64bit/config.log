@@ -1,0 +1,23 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:532: checking for gcc
+configure:609: checking whether the C compiler (gcc -O3 ) works
+configure:623: gcc -o conftest -O3   conftest.c  1>&5
+configure:643: checking whether the C compiler (gcc -O3 ) is a cross-compiler
+configure:648: checking whether we are using GNU C
+configure:672: checking whether gcc accepts -g
+configure:701: checking how to run the C preprocessor
+configure:762: checking for AIX
+configure:793: checking for ranlib
+configure:821: checking for ANSI C header files
+configure:926: checking for working const
+configure:1001: checking for size_t
+configure:1034: checking size of short
+configure:1073: checking size of int
+configure:1112: checking size of long
+configure:1151: checking size of void*
+configure:1195: checking for random
+configure:1195: checking for modf
+configure:1346: checking if random is defined in stdlib.h
+configure:1373: checking whether make sets ${MAKE}
