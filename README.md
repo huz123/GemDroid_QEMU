@@ -1,4 +1,4 @@
-GEMDROID
+GemDroid QEMU Part
 ====================
 Description
 ----------
@@ -11,9 +11,9 @@ AOSP 4.4.4 from https://source.android.com/source/downloading.html
 
 In this tar ball
 -----------------------------
-1. gemdroid_qemu 	#GemDroid QEMU part
-2. ReadMe.md 	 	#This readme
-3. 
+1. gemdroid_qemu 	__GemDroid QEMU part__
+2. ReadMe.md 	 	__This readme__
+3. FrameBuffer.cpp  __For DVI users__
 
 To Patch
 -------- 
@@ -38,7 +38,7 @@ Assume that $AOSP is your aosp folder, follow the following commands you will ha
 
 To use
 ------
-0. Need an android virtual device # follow Android Website;
+0. Need an android virtual device [follow this link](https://developer.android.com/tools/devices/index.html);
 1. start the emulator with your android virtual device as usual;
 2. press "volume up" button will trace the Frame Buffer Activity # Note that this is not supported for DIV monitors;
 3. press "volume down" button will trace the CPU/Memory accesses;
@@ -46,9 +46,10 @@ To use
 
 FAQ
 -------
-Q: I use a DIV monitor. It seems that there is no response when I press "volume up" button.
-A: It is a bug in the emulator. A quick fix is to replace $AOSP/sdk/emulator/opengl/host/libs/libOpenglRender/FrameBuffer.cpp using the file we provided. 
+<!-- Q: I use a DVI monitor. The numbers of Frame Buffer seem when I press "volume up" button.
 
+A: It is a bug in the emulator. A quick fix is to replace $AOSP/sdk/emulator/opengl/host/libs/libOpenglRender/FrameBuffer.cpp using the file we provided. 
+ -->
 Contacts
 ------
 If you find any bugs, please send to haibo at cse.psu.edu or nachi at cse.psu.edu.
