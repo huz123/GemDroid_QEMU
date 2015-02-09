@@ -1,4 +1,4 @@
-GemDroid QEMU Part
+GemDroid: QEMU Part
 ====================
 Description
 ----------
