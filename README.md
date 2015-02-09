@@ -13,7 +13,7 @@ In this tar ball
 -----------------------------
 1. gemdroid_qemu 	__GemDroid QEMU part__
 2. ReadMe.md 	 	__This readme__
-3. FrameBuffer.cpp  __For DVI users__
+<!-- 3. FrameBuffer.cpp  __For DVI users__ -->
 
 To Patch
 -------- 
