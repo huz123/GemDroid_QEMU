@@ -48,7 +48,7 @@ To use
 
 Acknowledgements
 -------
-GemDroid project was supported in part by NSF grants – #1302557, #0963839, #1205618, #1213052, #1320478, #1317560, #1302225, #1017882, and grants from Intel. 
+GemDroid project is supported in part by NSF grants – #1302557, #0963839, #1205618, #1213052, #1320478, #1317560, #1302225, #1017882, and grants from Intel. 
 More details about the NSF Expedition Project - Visual Corext On Silicon can be found at: http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html
 
 FAQ
