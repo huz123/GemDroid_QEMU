@@ -46,6 +46,11 @@ To use
 3. press "volume down" button will trace the CPU/Memory accesses;
 4. press "call" button will trace raw instructions.
 
+Acknowledgements
+-------
+GemDroid project was supported in part by NSF grants – #1302557, #0963839, #1205618, #1213052, #1320478, #1317560, #1302225, #1017882, and grants from Intel. 
+More details about the NSF Expedition Project - Visual Corext On Silicon can be found at: http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html
+
 FAQ
 -------
 <!-- Q: I use a DVI monitor. The numbers of Frame Buffer seem when I press "volume up" button.
