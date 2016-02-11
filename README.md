@@ -31,7 +31,7 @@ Assume that $AOSP is your aosp folder, follow the following commands you will ha
 	cp -r $AOSP/GemDroid_QEMU/gemdroid_qemu qemu
 	cd qemu
 	./android-configure.sh
-	# remove "-Wl" in objs/config.make
+	# remove "-Wl" in objs/config.make, compile d4-7 with -m32
 	make 
 	# use emulators in objs/
 ```
